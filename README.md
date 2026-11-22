@@ -4,6 +4,7 @@ Hyper realistic car mods for **Minecraft 1.21.11 (Fabric)**. There are blender m
 
 Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib](https://modrinth.com/mod/geckolib). For ultra realistic texture, use [Iris](https://modrinth.com/mod/iris) with [Complementary Unbound](https://www.complementary.dev/shaders/) shader r5.10
 
+Note: Pictures are from game, not made by blender or AI, made by pure effort.
 ![Minecraft Hypercar Mods](images/fleet-hero.jpg)
 
 ## Vehicles
