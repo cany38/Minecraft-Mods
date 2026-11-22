@@ -6,7 +6,7 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 
 ![Bugatti Bolide](images/Bolide-hero.jpg)
 
-## Cars
+## Vehicles
 
 | | Vehicle | Details |
 |---|---|---|
