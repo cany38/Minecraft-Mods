@@ -22,6 +22,8 @@ Note: Pictures are from game, not made by blender or AI, made by pure effort.
 | <img src="images/zondahp.png" width="64"> | **Pagani Zonda HP Barchetta** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/zondahp-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 | <img src="images/veneno.png" width="64"> | **Lamborghini Veneno** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/veneno-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 | <img src="images/tourbillon.png" width="64"> | **Bugatti Tourbillon** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/tourbillon-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
+| <img src="images/bmwm4.png" width="64"> | **BMW M4 Competition** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/bmwm4-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
+| <img src="images/bmwm5cs.png" width="64"> | **BMW M5 CS** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/bmwm5cs-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 
 ## Licence
 
